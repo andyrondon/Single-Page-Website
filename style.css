@@ -5,7 +5,7 @@ body {
   /* Navigation Bar */
   
   #home {
-    background-color:  #7600bc;
+    background-color:  darkgrey;
     padding-bottom: 1cm;
     margin-left:-1cm;
     margin-right:-1cm;
@@ -16,7 +16,7 @@ body {
    }
   
   .topmenu {
-    color: lightgray;
+    color: white;
     margin: 10px;
     padding: 20px;
     font-size: 20px;
@@ -24,10 +24,9 @@ body {
   }
   
   .topmenu:hover {
-    color: cyan;
+    color: white;
     font-weight: bolder;
-    text-decoration: underline;
-    /* Add the styles here */
+    text-decoration: underline;    
   }
   
   .topdiv {
@@ -38,9 +37,8 @@ body {
   .profile_name {
     float: left;
     padding-left: 2cm;
-    color: cyan;
-    font-size: 30px;
-    /* Add the styles here */
+    color: white;
+    font-size: 30px;    
   }
   
   .profile_name .contact_info {
@@ -64,7 +62,7 @@ body {
     font-size: 50px;
     text-align: center;
     float: left;
-    color: #7600bc;
+    color: black;
     margin: 30px;
     margin-left: 60px;
     margin-top: 40px;
