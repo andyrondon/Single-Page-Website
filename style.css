@@ -131,6 +131,7 @@ body {
     padding: 10px;
     width: 2in;
     font-size: 20px;
+    color: white;
     box-shadow: 0 3px 10px whitesmoke;
   }
   
@@ -140,6 +141,7 @@ body {
   }
   
   .skills h6 {
+    color: white;
     align-items: center;
     font-size: 20px;
     margin-block-start: 8px;
@@ -186,6 +188,7 @@ body {
   }
   
   .project-card li {
+    color: white;
     font-size: 20px;
     margin-left: 30px;
   }
@@ -229,7 +232,7 @@ body {
     width: 48px;
     height: 48px;
     border-radius: 100%;
-    background-color: #7600bc;
+    background-color: black;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -273,9 +276,9 @@ body {
   }
   
   .popup button:hover {
-    background-color: #fff;
-    border: 2px solid #7600bc;
-    color: #7600bc;
+    background-color: black;
+    border: 2px solid whitesmoke;
+    color: white;
     display: block;
     font-weight: bolder;
     text-align: center;
@@ -289,6 +292,8 @@ body {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; 
     margin: 10px;  
     width:100%;
+    color: white;
+    background-color: black;
   }
   
   fieldset {
@@ -300,14 +305,16 @@ body {
     margin-right: 50px;   
     border: thin solid white;
     width: 50%;
+    color: white;
+    background-color: black;
   }
   
   /* Buttons */
   
   button {
-    background-color: #fff;
-    border: 1px solid #7600bc;
-    color: #7600bc;
+    background-color: black;
+    border: 1px solid white;
+    color: white;
     display: block;
     border-radius: 6px;
     text-align: center;
@@ -318,8 +325,8 @@ body {
   }
   
   button:hover {
-    background-color: #7600bc;
-    border: 1px solid #7600bc;
+    background-color: black;
+    border: 1px solid white;
     color: #fff;
     display: block;
     border-radius: 6px;
